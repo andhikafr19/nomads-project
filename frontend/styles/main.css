@@ -367,4 +367,34 @@ header .btn-get-started:hover {
 .section-success .btn-home-page:hover {
   background-color: #1E3771;
   color: #fff;
+}
+
+.login-container {
+  background: linear-gradient(90deg, #ffffff 60%, #E4E6E8 40%);
+  width: 210vh;
+  height: 100vh;
+}
+
+.page-login {
+  height: 100vh;
+}
+.page-login .btn-login {
+  background-color: #FF9E53;
+  color: #fff;
+}
+.page-login .btn-login:hover {
+  color: #fff;
+}
+.page-login .section-left h1 {
+  font-weight: bold;
+  font-size: 50px;
+  text-align: left;
+  color: #071C4D;
+}
+.page-login .section-right {
+  font-weight: 300;
+  text-decoration: none;
+  font-size: 16px;
+  text-align: center;
+  color: #bfbfbf;
 }/*# sourceMappingURL=main.css.map */

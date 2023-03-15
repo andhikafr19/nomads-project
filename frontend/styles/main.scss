@@ -486,3 +486,39 @@ header{
     }
   }
 }
+
+.login-container {
+    background: linear-gradient(90deg, #ffffff 60%, #E4E6E8 40%);
+    width: 210vh;
+    height: 100vh;
+}
+
+.page-login {
+  height: 100vh;
+
+  .btn-login {
+    background-color: #FF9E53;
+    color: #fff;
+
+    &:hover {
+      color: #fff;
+    }
+  }
+
+  .section-left {
+    h1 {
+      font-weight: bold;
+      font-size: 50px;
+      text-align: left;
+      color: #071C4D;
+    }
+  }
+
+  .section-right {
+    font-weight: 300;
+    text-decoration: none;
+    font-size: 16px;
+    text-align: center;
+    color: #bfbfbf;
+  }
+}
